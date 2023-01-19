@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wolfcoder
-- 👀 I’m interested in WordPress, VueJS, NuxtJs, FrontEnd Development
-- 🌱 I’m currently learning WordPress
+- 👀 I’m interested in WordPress, Laravel, VueJS, NuxtJs, FrontEnd Development
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Exciting Project
 - 📫 How to reach me: Visit my Linkedin: https://www.linkedin.com/in/bambangsetyawan/
 
