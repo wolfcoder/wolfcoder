@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wolfcoder
+- 👋 Hi, I’m Bams
 - 👀 I’m interested in WordPress, Laravel, VueJS, NuxtJs, FrontEnd Development
 - 💞️ I’m looking to collaborate on Exciting Project
 - 📫 How to reach me: Visit my Linkedin: https://www.linkedin.com/in/bamx/
