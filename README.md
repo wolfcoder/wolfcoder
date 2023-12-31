@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bams
-- 👀 I’m interested in WordPress, Laravel, VueJS, NuxtJs, FrontEnd Development
-- 💞️ I’m looking to collaborate on Exciting Project
+- 👀 I’m interested in WordPress, Laravel, React, VueJS, NuxtJs, FrontEnd Development
+- 💞️ I’m looking to collaborate on an Exciting Project
 - 📫 How to reach me: Visit my Linkedin: [https://www.linkedin.com/in/bamx/](https://www.linkedin.com/in/bambangsetyawan/)
 
 <!---
